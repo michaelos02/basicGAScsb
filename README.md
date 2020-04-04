@@ -1,2 +1,0 @@
-# basicGAScsb
-Created with CodeSandbox
