@@ -1,3 +1,2 @@
-tasks:
-  - init: 
-    command: 
+image:
+  file: Dockerfile
